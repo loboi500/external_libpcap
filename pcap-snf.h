@@ -1,2 +1,3 @@
-pcap_t *snf_create(const char *, char *, int *);
-int snf_findalldevs(pcap_if_list_t *devlistp, char *errbuf);
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b3a4e23be1bb4b0471994ec87c674cac3d881c963959a2e9f33d080185c073a
+size 110

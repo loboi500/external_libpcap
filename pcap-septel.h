@@ -1,13 +1,3 @@
-/*
- * pcap-septel.c: Packet capture interface for Intel Septel card
- *
- * The functionality of this code attempts to mimic that of pcap-linux as much
- * as possible.  This code is only needed when compiling in the Intel/Septel
- * card code at the same time as another type of device.
- *
- * Authors: Gilbert HOYEK (gil_hoyek@hotmail.com), Elias M. KHOURY
- * (+961 3 485343);
- */
-
-pcap_t *septel_create(const char *device, char *ebuf, int *is_ours);
-int septel_findalldevs(pcap_if_list_t *devlistp, char *errbuf);
+version https://git-lfs.github.com/spec/v1
+oid sha256:c37f91671cb6657a0b07d75281ad3f4b5eb5af9af3c61471e226de5a78ebe4ff
+size 512

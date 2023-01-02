@@ -1,8 +1,3 @@
-/*
- * pcap-sita.h: Packet capture interface for SITA WAN devices
- *
- * Authors: Fulko Hew (fulko.hew@sita.aero) (+1 905 6815570);
- */
-
-extern int acn_parse_hosts_file(char *errbuf);
-extern int acn_findalldevs(char *errbuf);
+version https://git-lfs.github.com/spec/v1
+oid sha256:fde25708722fd5780c3afb17f9a4e0f9493261a7f03cce2cd51b5407668a8292
+size 224

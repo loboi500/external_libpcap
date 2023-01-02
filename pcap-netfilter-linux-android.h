@@ -1,25 +1,3 @@
-/*
- * Copyright (C) 2014 The Android Open Source Project
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- *      http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
-
-#ifdef __cplusplus
-extern "C" {
-#endif
-
-int android_nflog_send_config_cmd(int fd, u_int16_t group_id, u_int8_t cmd, u_int8_t family);
-
-#ifdef __cplusplus
-}
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb3c86a8c3067056fa5c6d8dd273422bf073f26a9ca6f00de4ae052cd6ee2b3a
+size 784

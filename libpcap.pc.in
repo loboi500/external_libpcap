@@ -1,18 +1,3 @@
-#
-# pkg-config file for libpcap.
-#
-# These variables come from the configure script, so includedir and
-# libdir may be defined in terms of prefix and exec_prefix, so the
-# latter must be defined as well.
-#
-prefix="@prefix@"
-exec_prefix="@exec_prefix@"
-includedir="@includedir@"
-libdir="@libdir@"
-
-Name: libpcap
-Description: Platform-independent network traffic capture library
-Version: @PACKAGE_VERSION@
-Libs: -L${libdir} -l@PACKAGE_NAME@
-Libs.private: @LIBS@
-Cflags: -I${includedir}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7130b6cdf469c182051485ad0a9263af54e06141be4605e4a6af12bc416405dd
+size 484

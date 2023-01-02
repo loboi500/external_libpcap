@@ -1,2 +1,3 @@
-pcap_t *rdmasniff_create(const char *device, char *ebuf, int *is_ours);
-int rdmasniff_findalldevs(pcap_if_list_t *devlistp, char *err_str);
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3b79dff39f99aece4a010b343c5328cb6cf7dd5996b192ba26e8fd20d7ed3b6
+size 140

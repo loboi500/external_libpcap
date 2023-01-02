@@ -1,6 +1,3 @@
-#!/bin/sh -
-#
-# Does nothing; used if we don't have a command-line flag to the compiler
-# to get it to generate dependencies.
-#
-exit 0
+version https://git-lfs.github.com/spec/v1
+oid sha256:88fddca68e48eeb8a37206178ea52efb7691f0b94cc2c1e07c1f0d7bae59b818
+size 135
